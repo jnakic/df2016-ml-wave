@@ -3,7 +3,7 @@
 ## Predictive System Performance Data Analytics using Salesforce Wave
 Dreamforce 2016 Demo Scripts
 
-## Prerequisite
+## Prerequisites
 
 Salesforce.com Analytics Cloud DatasetUtils
 
@@ -13,7 +13,7 @@ Download and install Java JDK from Oracle
 
 * [Oracle JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
-After installation is complete. open a console and check that the java version is 1.8 or higher by running the following command:
+After the installation is complete, open a console and check that Java version is 1.8 or higher by running the following command:
 
 ``java -version``
 
