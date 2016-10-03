@@ -1,0 +1,15 @@
+{
+  "fileFormat" : {
+    "charsetName" : "UTF-8",
+    "fieldsDelimitedBy" : "\t",
+    "fieldsEnclosedBy" : "",
+    "linesTerminatedBy" : "\n",
+    "numberOfLinesToIgnore" : 1
+  },
+  "objects" : [ {
+    "name" : "MyPerfStats",
+    "fullyQualifiedName" : "MyPerfStats",
+    "connector" : "SalesforceAnalyticsCloudDatasetLoader",
+    "label" : "MyPerfStats",
+    "description" : "MyPerfStats",
+    "rowLevelSecurityFilter" : null,
