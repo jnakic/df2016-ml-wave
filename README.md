@@ -5,6 +5,10 @@ Dreamforce 2016 Demo Scripts
 
 ## Prerequisite
 
+Salesforce.com Analytics Cloud DatasetUtils
+
+* [DatasetUtils](https://github.com/forcedotcom/Analytics-Cloud-Dataset-Utils)
+
 Download and install Java JDK from Oracle
 
 * [Oracle JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
