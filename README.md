@@ -21,9 +21,10 @@ Download and install scikit-learn
 
 * [Machine Learning in Python](http://scikit-learn.org)
 
-## Files:
+## Files
 * pred.sh - The main script to run all steps
 * data/* - Training and test input data
 * scripts/* - Python scripts to build model and get predictions
 * results/ - Directory for result files
 * wave/ - Directory with Salesforce Wave load scripts
+
