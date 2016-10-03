@@ -20,7 +20,6 @@ Download and install Python Programming Language
 Download and install scikit-learn
 
 * [Machine Learning in Python](http://scikit-learn.org)
-Download and install Java JDK from Oracle
 
 ## Files:
 * pred.sh - The main script to run all steps
