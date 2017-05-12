@@ -1,11 +1,12 @@
 #######################################################
 # Script:
-#    trainHoliday.py
+#    testExc.py
 # Usage:
-#    python trainHoliday.py <input_file> <output_file>
+#    python testExc.py <input_file> <output_file>
 # Description:
-#    Build the prediction model based on training data
-#    Pass 2: prediction based on holiday info
+#    Test the model on current performance data
+#    Pass 3: prediction based on (A) holiday info and
+#            (B) Sunday pattern
 # Authors:
 #    Jasmin Nakic, jnakic@salesforce.com
 #    Samir Pilipovic, spilipovic@salesforce.com
