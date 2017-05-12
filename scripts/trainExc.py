@@ -1,15 +1,16 @@
-#######################################################
+########################################################
 # Script:
-#    trainHoliday.py
+#    trainExc.py
 # Usage:
-#    python trainHoliday.py <input_file> <output_file>
+#    python trainExc.py <input_file> <output_file>
 # Description:
 #    Build the prediction model based on training data
-#    Pass 2: prediction based on holiday info
+#    Pass 3: prediction based on (A) holiday and
+#            (B) Sunday exception info
 # Authors:
 #    Jasmin Nakic, jnakic@salesforce.com
 #    Samir Pilipovic, spilipovic@salesforce.com
-#######################################################
+########################################################
 
 import sys
 import numpy as np
