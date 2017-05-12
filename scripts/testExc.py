@@ -4,7 +4,7 @@
 # Usage:
 #    python testExc.py <input_file> <output_file>
 # Description:
-#    Test the model on current performance data
+#    Get predictions based on training data model
 #    Pass 3: prediction based on (A) holiday info and
 #            (B) Sunday pattern
 # Authors:
